@@ -1,4 +1,4 @@
-# ADSP 32018 – Natural Language Processing
+# ADSP 32018 – Next-Gen NLP: LLM and AgenticAI in Practice
 ## Final Project: AI Article Analysis
 
 **University of Chicago**  
@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-This repository contains my final project for *ADSP 32018: Natural Language Processing*, a course focused on extracting insights from unstructured text using modern NLP techniques.
+This repository contains my final project for *ADSP 32018: Next-Gen NLP: LLM and AgenticAI in Practice*, a course focused on extracting insights from unstructured text using modern NLP techniques.
 
 The course explored the forefront of Natural Language Processing through Transformer architectures and large language models. Key topics included classification, question answering, and text generation, progressing from foundational methods to deep learning approaches. Additional emphasis was placed on fine-tuning LLMs, prompt engineering, retrieval-augmented generation (RAG), and agentic AI systems. All work was implemented in Python using libraries such as PyTorch and the Hugging Face ecosystem.
 
