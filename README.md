@@ -78,12 +78,12 @@ The project builds a full NLP pipeline that integrates topic modeling, entity ex
 
 Run the notebooks in the following order:
 
-cleaning.ipynb  
-→ topic_detection_[].ipynb  
-→ ner.ipynb  
-→ ner_analysis.ipynb  
-→ train_sentiment.ipynb  
-→ absa.ipynb  
+`cleaning.ipynb`  
+→ `topic_detection_*.ipynb`  
+→ `ner.ipynb`  
+→ `ner_analysis.ipynb`  
+→ `train_sentiment.ipynb`  
+→ `absa.ipynb`
 
 Each step builds on the previous one and generates intermediate outputs used downstream.
 
